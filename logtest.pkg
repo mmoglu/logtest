@@ -1,0 +1,10 @@
+v 1.0.0
+d 'LOGTEST': Test significance of a predictor in logistic models
+d 
+d Stata module to test significance of a predictor in logistic models
+d 
+d Distribution-Date:   20211124
+d License: MIT
+d 
+F logtest.ado
+F logtest.sthlp
